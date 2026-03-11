@@ -1,7 +1,6 @@
-#include 
+#include
 int main()
 {
 
-  printf("Hello world")
-  
+  printf("Goodbye world")
 }
